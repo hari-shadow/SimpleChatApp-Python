@@ -11,7 +11,7 @@ PyChat is a simple real-time chat application implemented in Python using socket
 
 ### How to Use:
 
-1. Clone the repository: `git clone https://github.com/hari-shadow/PyChat.git`
+1. Clone the repository: `https://github.com/hari-shadow/SimpleChatApp-Python.git`
 2. Run the server: `python chat_server.py`
 3. Open multiple terminals and run clients: `python chat_client.py`
 4. Enter a unique username for each client and start chatting.
